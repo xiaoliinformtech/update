@@ -1,0 +1,28 @@
+﻿This is the summary apk list for available live IPTV software you can download, all software are sharing one same account you bought.
+
+https://github.com/xiaoliinformtech/update/blob/master/S006TVusa1.1.apk?raw=true
+http://usaboss.selfip.com/Android/S020TVusa.apk
+http://usaboss.selfip.com/Android/S021TVusa.apk
+https://github.com/xiaoliinformtech/update/blob/master/S009TVusa.apk?raw=true
+https://github.com/xiaoliinformtech/update/blob/master/S016TVusa.apk?raw=true
+https://github.com/xiaoliinformtech/update/blob/master/S022TVusa.apk?raw=true
+https://github.com/xiaoliinformtech/update/blob/master/S024TVusa.apk?raw=true
+http://usaboss.selfip.com/Android/tomato.apk
+http://usaboss.selfip.com/Android/S051TVusa.apk
+http://usaboss.selfip.com/Android/S052TVusa.apk
+http://usaboss.selfip.com/Android/S057TVusa.apk
+http://usaboss.selfip.com/Android/S058TVusa.apk
+http://usaboss.selfip.com/Android/S059TVusa.apk
+
+some notes:
+Do NOT upgrade S022TV. Do NOT upgrade S024TV.
+If you are running any of signin problem about S020TV,S021TV please download them again and reinstall them.
+tomato, S022, S051, S052, S059 are recommended.
+S051TV replace S031TV
+s052TV replace S032TV
+S057TV replace S037TV
+S058TV replace S038TV
+S059TV replace S039TV
+New softwares have the online upgrade function.
+Please remmeber your IPTV account starting with 'V98888xxxx'.
+It is advised to enable WIFI and LAN before the your account gets binding.
