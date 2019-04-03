@@ -1,30 +1,34 @@
-﻿This is the summary apk list for available live IPTV software you can download, all software are sharing one same account you bought.
+This is the summary apk list for available live IPTV software you can download, all software are sharing one same account you bought.
 
-https://github.com/xiaoliinformtech/update/blob/master/S006TVusa1.1.apk?raw=true
-https://github.com/xiaoliinformtech/update/blob/master/S009TVusa.apk?raw=true
-https://github.com/xiaoliinformtech/update/blob/master/S022TVusa.apk?raw=true
-http://usaboss.selfip.com/Android/tomato.apk
-http://usaboss.selfip.com/Android/S051TVusa.apk
-http://usaboss.selfip.com/Android/S052TVusa.apk
-http://usaboss.selfip.com/Android/json/S053TVusa.apk
-http://usaboss.selfip.com/Android/S054TVusa.apk
-http://usaboss.selfip.com/Android/json/S057TVusa.apk
-http://usaboss.selfip.com/Android/S059TVusa.apk
-http://usaboss.selfip.com/Android/S056TVusa.apk
+http://usaboss.selfip.com:9501/Android/json/marketusa.apk
+http://usaboss.selfip.com:9501/Android/json/S006TVusa1.1.apk
+http://usaboss.selfip.com:9501/Android/json/S062TVusa.apk
+http://usaboss.selfip.com:9501/Android/tomato.apk
+http://usaboss.selfip.com:9501/Android/S051TVusa.apk
+http://usaboss.selfip.com:9501/Android/S052TVusa.apk
+http://usaboss.selfip.com:9501/Android/json/S053TVusa.apk
+http://usaboss.selfip.com:9501/Android/S054TVusa.apk
+http://usaboss.selfip.com:9501/Android/json/S057TVusa.apk
+http://usaboss.selfip.com:9501/Android/json/S056TVusa.apk
+http://usaboss.selfip.com:9501/Android/json/S058TVusa.apk
+http://usaboss.selfip.com:9501/Android/json/S069TVusa.apk
 
 
 some notes:
-Do NOT upgrade S022TV. Do NOT upgrade S024TV.
-If you are running any of signin problem about S020TV,S021TV please download them again and reinstall them.
-tomato,S009, S022, S052, S056 are recommended.
+tomato,S069, S051, S052, S058, S056, S057 are recommended.
 Cannot grarantee all of them working.
 New softwares have the online upgrade function.
 Please remmeber your IPTV account starting with 'V98888xxxx'.
 It is advised to enable WIFI and LAN before the your account gets binding.
 
 After your account binding to the device, if you enable/disable WIFI again, it could cause sign in problem. You need to switch the WIFI status back.
+http://usaboss.selfip.com:9501/Android/encrypt/apklist.txt
 
+updates:
+S059TV is not available.  uninstall it.
+S022TV is not available, uninstall it. S062TV is the replacement.
+S009TV is no longer service. S069TV is the replacement
+S052TV, S058TV are back, strongly recommended.
+IPTV-market.apk is the consolidated apk.
 
-http://usaboss.selfip.com/Android/encrypt/apklist.txt
-
-Service new email:  2484866879@qq.com
+Service new email:  2484866879@qq.com or 2247266758@qq.com
