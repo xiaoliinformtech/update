@@ -1,34 +1,87 @@
-This is the summary apk list for available live IPTV software you can download, all software are sharing one same account you bought.
-
+Welcome to become our IPTV customer, please read the below information for your choice.
+The main apk of iptv market download address, it supports all software online downloading, please install it first:
 http://usaboss.selfip.com:9501/Android/json/marketusa.apk
+We have 5 different packages to sell, all packages have adult live channels.
+
+this information will be upaded on this address:
+http://usaboss.selfip.com:9501/Android/encrypt/apklist.txt
+
+Original Tomato IPTV package (more than 500 live channels, more than 20 thousands vod, Adult program password: 120120, has remommendation rewards) retail price:
+2 days trial price: 1.5 USD
+1 year account price: 24 USD
+180 days account price: 15 USD
+Life time account price: 73 USD
+After payment, you install the apks, please tell us the device number in order to combine your account.
+the two rows of Apks are included.  The third and the fourth row of apks are not included.
 http://usaboss.selfip.com:9501/Android/json/S006TVusa1.1.apk
 http://usaboss.selfip.com:9501/Android/json/S062TVusa.apk
-http://usaboss.selfip.com:9501/Android/tomato.apk
+http://usaboss.selfip.com:9501/Android/tomato.apk(currently it has crack issue)
 http://usaboss.selfip.com:9501/Android/S051TVusa.apk
 http://usaboss.selfip.com:9501/Android/S052TVusa.apk
-http://usaboss.selfip.com:9501/Android/json/S053TVusa.apk
-http://usaboss.selfip.com:9501/Android/S054TVusa.apk
 http://usaboss.selfip.com:9501/Android/json/S057TVusa.apk
 http://usaboss.selfip.com:9501/Android/json/S056TVusa.apk
 http://usaboss.selfip.com:9501/Android/json/S058TVusa.apk
 http://usaboss.selfip.com:9501/Android/json/S069TVusa.apk
-
-
-some notes:
-tomato,S069, S051, S052, S058, S056, S057 are recommended.
-Cannot grarantee all of them working.
-New softwares have the online upgrade function.
-Please remmeber your IPTV account starting with 'V98888xxxx'.
+http://usaboss.selfip.com:9501/Android/json/S066TVusa.apk
+all software will share one same account you bought.
+S052TV, S058TV, S051TV, S066TV are strongly recommended.
+your IPTV account starting with 'V98888xxxx'.
 It is advised to enable WIFI and LAN before the your account gets binding.
-
 After your account binding to the device, if you enable/disable WIFI again, it could cause sign in problem. You need to switch the WIFI status back.
-http://usaboss.selfip.com:9501/Android/encrypt/apklist.txt
 
-updates:
-S059TV is not available.  uninstall it.
-S022TV is not available, uninstall it. S062TV is the replacement.
-S009TV is no longer service. S069TV is the replacement
-S052TV, S058TV are back, strongly recommended.
-IPTV-market.apk is the consolidated apk.
+Number 1 package (the best quality, more than 300 live channels,no vod, no remommendation rewards, Adult program password: 168168, two apks for two devices but 1 device for 10 adult live channels only) retail price:
+2 days trial price: 1.5 USD
+30 days account price: 7 USD
+1 year account price: 60 USD
+http://sunboss.selfip.com:9501/Android/json/number1_cr.apk
+http://sunboss.selfip.com:9501/Android/json/number1.apk
+After payment, you install the apks, the activation code will be sent by email.
+Number 2 package (good quality, more than 350 live channels,has thousands vod, Adult program password: 188188, no remommendation rewards) retail price:
+1 days trial price: 1 USD
+30 days account price: 6 USD
+1 year account price: 50 USD
+http://sunboss.selfip.com:9501/Android/json/number2.apk
+After payment, you install the apks, the activation code will be sent by email.
+Number 3 package (ZTV, More than 600 live channels, more than 20 thousands vod, Adult program password: 900900, has remommendation rewards) retail price:
+3 days trial price: 2 USD
+30 days account price: 5 USD
+1 year account price: 35 USD
+180 days account price: 28 USD
+life time account price: 95 USD
+http://sunboss.selfip.com:9501/Android/myonlinetv/ztv.apk
+http://sunboss.selfip.com:9501/Android/myonlinetv/ztvplugins.apk
+http://sunboss.selfip.com:9501/Android/myonlinetv/ztvvod.apk
+http://usaboss.selfip.com:9501/Android/json/S058TVusa.apk
+After payment, you install the apks, please tell us the device number in order to combine your account.
+Number 4 package (OURTV, More than 600 live channels, no vod, Adult program password: 168168, has remommendation rewards) retail price:
+3 days trial price: 2 USD
+30 days account price: 5 USD
+1 year account price: 32 USD
+180 days account price: 25 USD
+life time account price: 90 USD
+http://sunboss.selfip.com:9501/Android/myonlinetv/number4.apk
+http://sunboss.selfip.com:9501/Android/myonlinetv/number4plugin.apk
+http://usaboss.selfip.com:9501/Android/json/S058TVusa.apk
+After payment, you install the apks, please tell us the device number in order to combine your account.
+We do have recommendation rewards(only for original IPTV package, Number 3 package, Number 4 package).
+Normal customer can get 30 days extension for recommending 1 year new customer, if new customer pay 180 days account, then 15 days extension.
+Please let your friends tell us your account before the payment.
+If you are interested in becoming reseller,  the prices will be as below, but you will have to pay 15 accounts (1 year subscription) one time first:
+Original IPTV wholesale prices:
+1 year account price: 11 USD
+180 days account price: 7 USD
+Life time account price: 36 USD
+Number 3 IPTV wholesale prices:
+1 year account price: 16 USD
+180 days account price: 10 USD
+Life time account price: 70 USD
+Number 4 IPTV wholesale prices:
+1 year account price: 15 USD
+180 days account price: 9 USD
+Life time account price: 65 USD
+And you can get the backstage to manage your customers to try the software for 2 or 3 days without any limitation and no fee.
+Thanks.
 
-Service new email:  2484866879@qq.com or 2247266758@qq.com
+our paypal account: sky2013ok@gmail.com
+we are sorry, our ebay shop has been terminated by ebay due to adult programs are the violation ebay policy.
+Service emails:  2484866879@qq.com or 2247266758@qq.com or 204248889@qq.com
